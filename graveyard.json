@@ -1,5 +1,13 @@
 [
   {
+    "dateClose": "2020-11-10",
+    "dateOpen": "2019-10-05",
+    "description": "Google Meet Backgroup replace was a shortlived feature within Google Meet that allowed users to replace their background with a set of pre-set backgrounds or their own uploaded backgrounds.",
+    "link": "https://better-it.slack.com/archives/C2DMQ0BGE/p1605016511334100",
+    "name": "Google Meet Backgroung Replace",
+    "type": "app"
+  },
+  {
     "dateClose": "2020-08-31",
     "dateOpen": "2019-02-05",
     "description": "Whenever you signed in to a site, Password Checkup triggered a warning if the username and password you used were one of over 4 billion credentials that Google knew to be unsafe.",
